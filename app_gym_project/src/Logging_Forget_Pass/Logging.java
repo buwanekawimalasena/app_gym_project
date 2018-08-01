@@ -6,12 +6,8 @@
 package Logging_Forget_Pass;
 
 import Class_Files.DB;
-import com.sun.xml.internal.messaging.saaj.packaging.mime.internet.MimeUtility;
-import java.awt.Color;
 import java.sql.ResultSet;
-import javax.swing.BorderFactory;
 import javax.swing.JOptionPane;
-import javax.swing.JTextField;
 
 /**
  *
